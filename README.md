@@ -1,4 +1,4 @@
-# Desafio Entendendo um Ransmware na Prática com Python
+# Desafio Entendendo um Ransomware na Prática com Python
 
 ### Realizado o passos a passo:
 
